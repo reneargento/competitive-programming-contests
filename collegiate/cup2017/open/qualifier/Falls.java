@@ -1,4 +1,4 @@
-package com.br.collegiate.cup2017.open.qualifier;
+package collegiate.cup2017.open.qualifier;
 
 import java.util.*;
 

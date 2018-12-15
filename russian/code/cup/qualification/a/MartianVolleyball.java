@@ -1,4 +1,4 @@
-package com.br.russian.code.cup.qualification.a;
+package russian.code.cup.qualification.a;
 
 /**
  * Created by rene on 02/04/17.

@@ -1,4 +1,4 @@
-package com.br.training.usp.winterschool2017.campday2;
+package training.usp.winterschool2017.campday2;
 
 import java.util.HashMap;
 import java.util.Map;

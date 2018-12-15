@@ -1,4 +1,4 @@
-package com.br.codefights.marathon.june2017;
+package codefights.marathon.june2017;
 
 import java.util.*;
 

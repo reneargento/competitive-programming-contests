@@ -1,4 +1,4 @@
-package com.br.google.code.jam.kickstart2017.roundc;
+package google.code.jam.kickstart2017.roundc;
 
 import java.io.IOException;
 import java.nio.file.Files;

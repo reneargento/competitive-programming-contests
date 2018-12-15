@@ -1,4 +1,4 @@
-package com.br.google.code.jam.code2018.round1a;
+package google.code.jam.code2018.round1a;
 
 import java.util.Arrays;
 import java.util.Scanner;

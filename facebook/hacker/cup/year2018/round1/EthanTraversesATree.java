@@ -1,4 +1,4 @@
-package com.br.facebook.hacker.cup.year2018.round1;
+package facebook.hacker.cup.year2018.round1;
 
 import java.io.IOException;
 import java.nio.file.Files;

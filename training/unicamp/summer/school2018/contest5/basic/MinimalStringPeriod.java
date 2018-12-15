@@ -1,4 +1,4 @@
-package com.br.training.unicamp.summer.school2018.contest5.basic;
+package training.unicamp.summer.school2018.contest5.basic;
 
 import java.util.Scanner;
 

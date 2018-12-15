@@ -1,4 +1,4 @@
-package com.br.movile.code.challenge;
+package movile.code.challenge;
 
 import java.util.*;
 

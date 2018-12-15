@@ -1,4 +1,4 @@
-package com.br.hacker.rank.rookie.rank4;
+package hacker.rank.rookie.rank4;
 
 import java.io.IOException;
 import java.util.Scanner;

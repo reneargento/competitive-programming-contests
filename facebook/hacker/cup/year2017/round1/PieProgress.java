@@ -1,4 +1,4 @@
-package com.br.facebook.hacker.cup.year2017.round1;
+package facebook.hacker.cup.year2017.round1;
 
 /**
  * Created by rene on 14/01/17.

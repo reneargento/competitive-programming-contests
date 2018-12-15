@@ -1,4 +1,4 @@
-package com.br.hacker.rank.rookie.rank4;
+package hacker.rank.rookie.rank4;
 
 import java.util.Arrays;
 import java.util.Scanner;

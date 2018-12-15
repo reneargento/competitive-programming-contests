@@ -1,4 +1,4 @@
-package com.br.hacker.rank.wallmartlabscodesprint;
+package hacker.rank.wallmartlabscodesprint;
 
 /**
  * Created by rene on 29/10/16.

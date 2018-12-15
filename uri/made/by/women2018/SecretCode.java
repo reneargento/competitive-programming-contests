@@ -1,4 +1,4 @@
-package com.br.uri.made.by.women2018;
+package uri.made.by.women2018;
 
 import java.util.HashMap;
 import java.util.Map;

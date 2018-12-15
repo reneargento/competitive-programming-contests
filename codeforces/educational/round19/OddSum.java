@@ -1,4 +1,4 @@
-package com.br.codeforces.educational.round19;
+package codeforces.educational.round19;
 
 /**
  * Created by rene on 15/04/17.

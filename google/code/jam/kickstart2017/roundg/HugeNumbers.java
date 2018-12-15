@@ -1,4 +1,4 @@
-package com.br.google.code.jam.kickstart2017.roundg;
+package google.code.jam.kickstart2017.roundg;
 
 /**
  * Created by rene.argento on 18/12/17.

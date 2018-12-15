@@ -1,4 +1,4 @@
-package com.br.facebook.hacker.cup.year2017.qualification;
+package facebook.hacker.cup.year2017.qualification;
 
 /**
  * Created by rene on 07/01/17.

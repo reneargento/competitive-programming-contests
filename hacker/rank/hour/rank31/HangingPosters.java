@@ -1,4 +1,4 @@
-package com.br.hacker.rank.hour.rank31;
+package hacker.rank.hour.rank31;
 
 import java.util.ArrayList;
 import java.util.List;

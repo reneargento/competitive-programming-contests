@@ -1,4 +1,4 @@
-package com.br.codeforces.educational.round19;
+package codeforces.educational.round19;
 
 import java.util.ArrayList;
 import java.util.List;

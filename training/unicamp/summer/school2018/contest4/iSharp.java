@@ -1,4 +1,4 @@
-package com.br.training.unicamp.summer.school2018.contest4;
+package training.unicamp.summer.school2018.contest4;
 
 import java.io.IOException;
 import java.nio.file.Files;

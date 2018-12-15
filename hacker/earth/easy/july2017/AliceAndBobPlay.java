@@ -1,4 +1,4 @@
-package com.br.hacker.earth.easy.july2017;
+package hacker.earth.easy.july2017;
 
 import java.util.Scanner;
 

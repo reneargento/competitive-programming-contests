@@ -1,4 +1,4 @@
-package com.br.hacker.rank.hour.rank24;
+package hacker.rank.hour.rank24;
 
 import java.util.*;
 

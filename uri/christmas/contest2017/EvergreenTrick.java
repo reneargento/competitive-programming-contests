@@ -1,4 +1,4 @@
-package com.br.uri.christmas.contest2017;
+package uri.christmas.contest2017;
 
 import java.util.Scanner;
 

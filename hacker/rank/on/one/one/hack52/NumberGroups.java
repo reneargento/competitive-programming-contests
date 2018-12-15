@@ -1,4 +1,4 @@
-package com.br.hacker.rank.on.one.one.hack52;
+package hacker.rank.on.one.one.hack52;
 
 import java.math.BigInteger;
 import java.util.Scanner;

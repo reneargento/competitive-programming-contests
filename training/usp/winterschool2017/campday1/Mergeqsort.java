@@ -1,4 +1,4 @@
-package com.br.training.usp.winterschool2017.campday1;
+package training.usp.winterschool2017.campday1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.br.russian.code.cup.qualification.c;
+package russian.code.cup.qualification.c;
 
 import java.util.HashMap;
 import java.util.Map;

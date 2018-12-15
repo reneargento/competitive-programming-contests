@@ -1,4 +1,4 @@
-package com.br.maratona.mineira.ano2017;
+package maratona.mineira.ano2017;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.br.training.usp.winterschool2017.campday4;
+package training.usp.winterschool2017.campday4;
 
 import java.util.*;
 

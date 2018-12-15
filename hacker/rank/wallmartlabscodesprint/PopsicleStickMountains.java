@@ -1,4 +1,4 @@
-package com.br.hacker.rank.wallmartlabscodesprint;
+package hacker.rank.wallmartlabscodesprint;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.br.google.code.jam.code2017.round1b;
+package google.code.jam.code2017.round1b;
 
 import java.io.IOException;
 import java.nio.file.Files;

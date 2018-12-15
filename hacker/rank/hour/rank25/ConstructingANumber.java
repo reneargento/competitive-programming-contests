@@ -1,4 +1,4 @@
-package com.br.hacker.rank.hour.rank25;
+package hacker.rank.hour.rank25;
 
 import java.util.Scanner;
 

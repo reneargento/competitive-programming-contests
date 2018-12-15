@@ -1,4 +1,4 @@
-package com.br.google.code.jam.code2018.qualification;
+package google.code.jam.code2018.qualification;
 
 import java.util.*;
 

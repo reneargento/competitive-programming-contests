@@ -1,4 +1,4 @@
-package com.br.codefights.marathon.may2017;
+package codefights.marathon.may2017;
 
 /**
  * Created by rene on 27/05/17.

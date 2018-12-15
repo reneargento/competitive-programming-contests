@@ -1,4 +1,4 @@
-package com.br.collegiate.cup2017.finals;
+package collegiate.cup2017.finals;
 
 import java.util.HashSet;
 import java.util.Scanner;

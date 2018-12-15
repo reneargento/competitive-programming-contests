@@ -1,4 +1,4 @@
-package com.br.google.code.jam.code2017.round1a;
+package google.code.jam.code2017.round1a;
 
 /**
  * Created by rene on 14/04/17.

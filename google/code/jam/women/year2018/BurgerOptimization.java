@@ -1,4 +1,4 @@
-package com.br.google.code.jam.women.year2018;
+package google.code.jam.women.year2018;
 
 import java.io.IOException;
 import java.nio.file.Files;

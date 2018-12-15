@@ -1,4 +1,4 @@
-package com.br.training.usp.winterschool2017.campday5;
+package training.usp.winterschool2017.campday5;
 
 import java.io.BufferedReader;
 import java.io.IOException;
