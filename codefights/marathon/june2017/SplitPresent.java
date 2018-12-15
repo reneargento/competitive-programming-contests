@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Created by rene on 24/06/17.
+ * Created by Rene Argento on 24/06/17.
  */
 public class SplitPresent {
 

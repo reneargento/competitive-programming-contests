@@ -3,7 +3,7 @@ package hacker.rank.hour.rank24;
 import java.util.*;
 
 /**
- * Created by rene on 02/11/17.
+ * Created by Rene Argento on 02/11/17.
  */
 @SuppressWarnings("unchecked")
 // https://www.hackerrank.com/contests/hourrank-24/challenges/wire-removal

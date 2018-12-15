@@ -3,7 +3,7 @@ package codefights.marathon.june2017;
 import java.util.*;
 
 /**
- * Created by rene on 24/06/17.
+ * Created by Rene Argento on 24/06/17.
  */
 
 /**

@@ -1,7 +1,7 @@
 package codeforces.educational.round19;
 
 /**
- * Created by rene on 15/04/17.
+ * Created by Rene Argento on 15/04/17.
  */
 
 import java.util.Scanner;

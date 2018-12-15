@@ -3,7 +3,7 @@ package training.usp.winterschool2017.campday2;
 import java.util.Scanner;
 
 /**
- * Created by rene on 11/07/17.
+ * Created by Rene Argento on 11/07/17.
  */
 // Subsequence sum = (2^n-1 -1) x SUM(all elements)
 //Based on http://www.geeksforgeeks.org/find-sum-sum-sub-sequences/

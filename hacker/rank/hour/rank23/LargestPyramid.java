@@ -3,7 +3,7 @@ package hacker.rank.hour.rank23;
 import java.util.Scanner;
 
 /**
- * Created by rene on 09/09/17.
+ * Created by Rene Argento on 09/09/17.
  */
 public class LargestPyramid {
 

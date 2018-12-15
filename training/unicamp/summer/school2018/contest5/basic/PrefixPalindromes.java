@@ -3,7 +3,7 @@ package training.unicamp.summer.school2018.contest5.basic;
 import java.util.Scanner;
 
 /**
- * Created by rene on 27/01/18.
+ * Created by Rene Argento on 27/01/18.
  */
 public class PrefixPalindromes {
 

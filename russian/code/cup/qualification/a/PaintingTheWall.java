@@ -3,7 +3,7 @@ package russian.code.cup.qualification.a;
 import java.util.*;
 
 /**
- * Created by rene on 02/04/17.
+ * Created by Rene Argento on 02/04/17.
  */
 
 /**

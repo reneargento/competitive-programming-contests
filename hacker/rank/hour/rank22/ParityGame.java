@@ -3,7 +3,7 @@ package hacker.rank.hour.rank22;
 import java.util.Scanner;
 
 /**
- * Created by rene on 02/07/17.
+ * Created by Rene Argento on 02/07/17.
  */
 public class ParityGame {
 

@@ -3,7 +3,7 @@ package collegiate.cup2017.open.qualifier;
 import java.util.*;
 
 /**
- * Created by rene on 26/05/17.
+ * Created by Rene Argento on 26/05/17.
  */
 //https://www.hackerearth.com/challenge/competitive/brasil-collegiate-cup-2017-open-qualifier/algorithm/cataratas-do-iguacu/
     //Based on https://discuss.leetcode.com/topic/79642/short-and-clear-o-nlogk-java-solutions

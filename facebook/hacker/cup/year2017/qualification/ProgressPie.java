@@ -1,7 +1,7 @@
 package facebook.hacker.cup.year2017.qualification;
 
 /**
- * Created by rene on 06/01/17.
+ * Created by Rene Argento on 06/01/17.
  */
 //Based on https://www.facebook.com/hackercup/problem/1254819954559001/
 

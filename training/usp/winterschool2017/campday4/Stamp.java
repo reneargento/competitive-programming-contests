@@ -9,7 +9,7 @@ import java.util.Set;
 import java.util.StringTokenizer;
 
 /**
- * Created by rene on 13/07/17.
+ * Created by Rene Argento on 13/07/17.
  */
 public class Stamp {
 

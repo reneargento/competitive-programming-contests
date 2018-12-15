@@ -1,7 +1,7 @@
 package google.code.jam.code2017.qualification;
 
 /**
- * Created by rene on 07/04/17.
+ * Created by Rene Argento on 07/04/17.
  */
 
 import java.io.IOException;

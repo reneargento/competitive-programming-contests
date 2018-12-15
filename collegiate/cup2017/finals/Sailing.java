@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /**
- * Created by rene on 17/06/17.
+ * Created by Rene Argento on 17/06/17.
  */
 public class Sailing {
 

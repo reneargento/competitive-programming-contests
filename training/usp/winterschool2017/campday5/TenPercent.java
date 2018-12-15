@@ -9,7 +9,7 @@ import java.util.Comparator;
 import java.util.StringTokenizer;
 
 /**
- * Created by rene on 14/07/17.
+ * Created by Rene Argento on 14/07/17.
  */
 public class TenPercent {
 

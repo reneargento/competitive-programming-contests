@@ -1,7 +1,7 @@
 package codefights.marathon.june2017;
 
 /**
- * Created by rene on 24/06/17.
+ * Created by Rene Argento on 24/06/17.
  */
 
 import java.util.Arrays;

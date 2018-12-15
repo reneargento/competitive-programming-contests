@@ -3,7 +3,7 @@ package training.usp.winterschool2017.campday4;
 import java.util.*;
 
 /**
- * Created by rene on 13/07/17.
+ * Created by Rene Argento on 13/07/17.
  */
 public class Wallpapers {
 

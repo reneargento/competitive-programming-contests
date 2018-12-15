@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 /**
- * Created by rene on 29/10/16.
+ * Created by Rene Argento on 29/10/16.
  */
 
 /**

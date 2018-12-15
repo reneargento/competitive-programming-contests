@@ -3,7 +3,7 @@ package hacker.earth.easy.july2017;
 import java.util.Scanner;
 
 /**
- * Created by rene on 01/07/17.
+ * Created by Rene Argento on 01/07/17.
  */
 public class AliceAndBobPlay {
 

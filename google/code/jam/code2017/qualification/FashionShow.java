@@ -8,7 +8,7 @@ import java.nio.file.StandardOpenOption;
 import java.util.*;
 
 /**
- * Created by rene on 08/04/17.
+ * Created by Rene Argento on 08/04/17.
  */
 public class FashionShow {
 

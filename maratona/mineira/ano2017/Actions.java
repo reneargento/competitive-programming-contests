@@ -3,7 +3,7 @@ package maratona.mineira.ano2017;
 import java.util.Scanner;
 
 /**
- * Created by rene on 27/05/17.
+ * Created by Rene Argento on 27/05/17.
  */
 
 /**

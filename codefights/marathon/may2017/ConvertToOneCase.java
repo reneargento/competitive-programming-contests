@@ -1,7 +1,7 @@
 package codefights.marathon.may2017;
 
 /**
- * Created by rene on 27/05/17.
+ * Created by Rene Argento on 27/05/17.
  */
 
 /**

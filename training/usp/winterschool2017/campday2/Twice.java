@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Created by rene on 11/07/17.
+ * Created by Rene Argento on 11/07/17.
  */
 public class Twice {
 

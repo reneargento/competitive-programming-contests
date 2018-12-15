@@ -3,7 +3,7 @@ package training.usp.winterschool2017.campday1;
 import java.util.Scanner;
 
 /**
- * Created by rene on 10/07/17.
+ * Created by Rene Argento on 10/07/17.
  */
 public class Mergeqsort {
 

@@ -3,7 +3,7 @@ package uri.christmas.contest2017;
 import java.util.Scanner;
 
 /**
- * Created by rene on 16/12/17.
+ * Created by Rene Argento on 16/12/17.
  */
 //https://www.urionlinejudge.com.br/judge/en/problems/view/2718
 //https://www.urionlinejudge.com.br/judge/en/challenges/view/338/2

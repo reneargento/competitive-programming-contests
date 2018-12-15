@@ -1,7 +1,7 @@
 package codefights.marathon.april2017;
 
 /**
- * Created by rene on 29/04/17.
+ * Created by Rene Argento on 29/04/17.
  */
 /**
  * Alice is putting all her books on a shelf.

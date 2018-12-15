@@ -4,7 +4,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 
 /**
- * Created by rene on 13/07/17.
+ * Created by Rene Argento on 13/07/17.
  */
 public class DefendingAFort {
 

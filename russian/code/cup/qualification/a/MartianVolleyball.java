@@ -1,7 +1,7 @@
 package russian.code.cup.qualification.a;
 
 /**
- * Created by rene on 02/04/17.
+ * Created by Rene Argento on 02/04/17.
  */
 
 import java.util.Scanner;

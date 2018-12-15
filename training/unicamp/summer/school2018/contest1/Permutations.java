@@ -3,7 +3,7 @@ package training.unicamp.summer.school2018.contest1;
 import java.util.*;
 
 /**
- * Created by rene on 22/01/18.
+ * Created by Rene Argento on 22/01/18.
  */
 // TODO http://codeforces.com/group/3qadGzUdR4/contest/101704/problem/P
 public class Permutations {

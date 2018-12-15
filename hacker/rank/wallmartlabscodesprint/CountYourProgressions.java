@@ -1,7 +1,7 @@
 package hacker.rank.wallmartlabscodesprint;
 
 /**
- * Created by rene on 29/10/16.
+ * Created by Rene Argento on 29/10/16.
  */
 
 import java.util.Scanner;

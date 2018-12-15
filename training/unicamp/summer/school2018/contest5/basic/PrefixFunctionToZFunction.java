@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.StringJoiner;
 
 /**
- * Created by rene on 27/01/18.
+ * Created by Rene Argento on 27/01/18.
  */
 // http://codeforces.com/group/3qadGzUdR4/contest/101710/problem/B
 //TODO

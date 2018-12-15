@@ -1,7 +1,7 @@
 package facebook.hacker.cup.year2017.round1;
 
 /**
- * Created by rene on 14/01/17.
+ * Created by Rene Argento on 14/01/17.
  */
 
 //Based on https://www.facebook.com/hackercup/problem/1800890323482794/

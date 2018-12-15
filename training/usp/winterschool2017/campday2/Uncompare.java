@@ -3,7 +3,7 @@ package training.usp.winterschool2017.campday2;
 import java.util.*;
 
 /**
- * Created by rene on 11/07/17.
+ * Created by Rene Argento on 11/07/17.
  */
 public class Uncompare {
 

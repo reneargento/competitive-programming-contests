@@ -1,7 +1,7 @@
 package google.code.jam.code2017.round1a;
 
 /**
- * Created by rene on 14/04/17.
+ * Created by Rene Argento on 14/04/17.
  */
 
 import java.io.IOException;

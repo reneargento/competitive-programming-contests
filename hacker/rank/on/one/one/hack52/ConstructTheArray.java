@@ -3,7 +3,7 @@ package hacker.rank.on.one.one.hack52;
 import java.util.Scanner;
 
 /**
- * Created by rene on 03/12/17.
+ * Created by Rene Argento on 03/12/17.
  */
 //TODO
 public class ConstructTheArray {

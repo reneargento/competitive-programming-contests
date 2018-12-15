@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by rene on 25/06/17.
+ * Created by Rene Argento on 25/06/17.
  */
 public class AmbiguousCipher {
 
